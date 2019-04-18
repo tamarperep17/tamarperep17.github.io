@@ -1,5 +1,15 @@
+---
+title: Tamarperep17.Github.Io
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 exclude:
-  - package.json
-  - gulpfile.js
-  - node_modules
-  - scss
+- package.json
+- gulpfile.js
+- node_modules
+- scss
