@@ -1,6 +1,15 @@
 ---
 title: Main
 date: 2019-04-18 10:42:00 Z
+permalink: main/
+published: false
+layout: default
 ---
 
-<main aria-label="Content">    <div class="content">        <div class="container">            <h1 id="become-an-affiliate-on-10hookupsitescouk">Become an affiliate on 10hookupsites.co.uk</h1>            <hr>            <p>If you’d like to share the offers on our comparison site 10hookupsites.co.uk, you’ll need to sign up as an affiliate on spicyoffers.com.</p>            <p>Spicyoffers.com is 10hookupsites.co.uk’s exclusive affiliate programme.</p>            <p style="text-align: center;"><a href="https://www.spicyoffers.com" target="_blank" class="btn btn-primary btn-lg">Register on spicyoffers&nbsp;»</a></p>        </div>    </div></main>
+# Main page
+
+* sdsda
+
+* asd
+
+asdasdda
